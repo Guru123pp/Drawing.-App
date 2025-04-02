@@ -1,0 +1,13 @@
+body {
+    display: flex; /*Use flexbox layout align items */
+    align-items: center; /*Center items vertically */
+    justify-content: center; /*Center item horizontally */
+    height: 100vh; /* set the body height to 100% of the viewport height */
+    margin: 0; /*Reove deault margin */
+}
+
+canvas{
+    border: 1px solid #000; /*Add a black border to the canvas */
+
+}
+
